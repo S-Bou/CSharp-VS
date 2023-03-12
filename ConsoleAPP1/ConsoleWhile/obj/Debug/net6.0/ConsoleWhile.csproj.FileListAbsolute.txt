@@ -1,0 +1,15 @@
+D:\Projects\C#\VisualStudioCurso C#\ConsoleAPP1\ConsoleWhile\obj\Debug\net6.0\ConsoleWhile.csproj.AssemblyReference.cache
+D:\Projects\C#\VisualStudioCurso C#\ConsoleAPP1\ConsoleWhile\obj\Debug\net6.0\ConsoleWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\VisualStudioCurso C#\ConsoleAPP1\ConsoleWhile\obj\Debug\net6.0\ConsoleWhile.AssemblyInfoInputs.cache
+D:\Projects\C#\VisualStudioCurso C#\ConsoleAPP1\ConsoleWhile\obj\Debug\net6.0\ConsoleWhile.AssemblyInfo.cs
+D:\Projects\C#\VisualStudioCurso C#\ConsoleAPP1\ConsoleWhile\obj\Debug\net6.0\ConsoleWhile.csproj.CoreCompileInputs.cache
+D:\Projects\C#\VisualStudioCurso C#\ConsoleAPP1\ConsoleWhile\bin\Debug\net6.0\ConsoleWhile.exe
+D:\Projects\C#\VisualStudioCurso C#\ConsoleAPP1\ConsoleWhile\bin\Debug\net6.0\ConsoleWhile.deps.json
+D:\Projects\C#\VisualStudioCurso C#\ConsoleAPP1\ConsoleWhile\bin\Debug\net6.0\ConsoleWhile.runtimeconfig.json
+D:\Projects\C#\VisualStudioCurso C#\ConsoleAPP1\ConsoleWhile\bin\Debug\net6.0\ConsoleWhile.dll
+D:\Projects\C#\VisualStudioCurso C#\ConsoleAPP1\ConsoleWhile\bin\Debug\net6.0\ConsoleWhile.pdb
+D:\Projects\C#\VisualStudioCurso C#\ConsoleAPP1\ConsoleWhile\obj\Debug\net6.0\ConsoleWhile.dll
+D:\Projects\C#\VisualStudioCurso C#\ConsoleAPP1\ConsoleWhile\obj\Debug\net6.0\refint\ConsoleWhile.dll
+D:\Projects\C#\VisualStudioCurso C#\ConsoleAPP1\ConsoleWhile\obj\Debug\net6.0\ConsoleWhile.pdb
+D:\Projects\C#\VisualStudioCurso C#\ConsoleAPP1\ConsoleWhile\obj\Debug\net6.0\ConsoleWhile.genruntimeconfig.cache
+D:\Projects\C#\VisualStudioCurso C#\ConsoleAPP1\ConsoleWhile\obj\Debug\net6.0\ref\ConsoleWhile.dll
