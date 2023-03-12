@@ -10,15 +10,12 @@ namespace MyApp
         {
             Console.WriteLine("Hello world!");
 
+            Random numero = new Random();
+
+            int aleatorio = numero.Next(0 ,100);
+
+            Console.WriteLine("El número es: " + aleatorio);
 
         }
-
-
-
-
-
     }
-
-
-
 }
