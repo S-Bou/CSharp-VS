@@ -1,0 +1,15 @@
+D:\Projects\CSharp-VS\EjemploPOOCirculo\bin\Debug\net6.0\EjemploPOOCirculo.exe
+D:\Projects\CSharp-VS\EjemploPOOCirculo\bin\Debug\net6.0\EjemploPOOCirculo.deps.json
+D:\Projects\CSharp-VS\EjemploPOOCirculo\bin\Debug\net6.0\EjemploPOOCirculo.runtimeconfig.json
+D:\Projects\CSharp-VS\EjemploPOOCirculo\bin\Debug\net6.0\EjemploPOOCirculo.dll
+D:\Projects\CSharp-VS\EjemploPOOCirculo\bin\Debug\net6.0\EjemploPOOCirculo.pdb
+D:\Projects\CSharp-VS\EjemploPOOCirculo\obj\Debug\net6.0\EjemploPOOCirculo.csproj.AssemblyReference.cache
+D:\Projects\CSharp-VS\EjemploPOOCirculo\obj\Debug\net6.0\EjemploPOOCirculo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CSharp-VS\EjemploPOOCirculo\obj\Debug\net6.0\EjemploPOOCirculo.AssemblyInfoInputs.cache
+D:\Projects\CSharp-VS\EjemploPOOCirculo\obj\Debug\net6.0\EjemploPOOCirculo.AssemblyInfo.cs
+D:\Projects\CSharp-VS\EjemploPOOCirculo\obj\Debug\net6.0\EjemploPOOCirculo.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp-VS\EjemploPOOCirculo\obj\Debug\net6.0\EjemploPOOCirculo.dll
+D:\Projects\CSharp-VS\EjemploPOOCirculo\obj\Debug\net6.0\refint\EjemploPOOCirculo.dll
+D:\Projects\CSharp-VS\EjemploPOOCirculo\obj\Debug\net6.0\EjemploPOOCirculo.pdb
+D:\Projects\CSharp-VS\EjemploPOOCirculo\obj\Debug\net6.0\EjemploPOOCirculo.genruntimeconfig.cache
+D:\Projects\CSharp-VS\EjemploPOOCirculo\obj\Debug\net6.0\ref\EjemploPOOCirculo.dll
