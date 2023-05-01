@@ -1,0 +1,15 @@
+D:\Projects\CSharp-VS\PuntosCoor\obj\Debug\net6.0\PuntosCoor.csproj.AssemblyReference.cache
+D:\Projects\CSharp-VS\PuntosCoor\obj\Debug\net6.0\PuntosCoor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CSharp-VS\PuntosCoor\obj\Debug\net6.0\PuntosCoor.AssemblyInfoInputs.cache
+D:\Projects\CSharp-VS\PuntosCoor\obj\Debug\net6.0\PuntosCoor.AssemblyInfo.cs
+D:\Projects\CSharp-VS\PuntosCoor\obj\Debug\net6.0\PuntosCoor.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp-VS\PuntosCoor\bin\Debug\net6.0\PuntosCoor.exe
+D:\Projects\CSharp-VS\PuntosCoor\bin\Debug\net6.0\PuntosCoor.deps.json
+D:\Projects\CSharp-VS\PuntosCoor\bin\Debug\net6.0\PuntosCoor.runtimeconfig.json
+D:\Projects\CSharp-VS\PuntosCoor\bin\Debug\net6.0\PuntosCoor.dll
+D:\Projects\CSharp-VS\PuntosCoor\bin\Debug\net6.0\PuntosCoor.pdb
+D:\Projects\CSharp-VS\PuntosCoor\obj\Debug\net6.0\PuntosCoor.dll
+D:\Projects\CSharp-VS\PuntosCoor\obj\Debug\net6.0\refint\PuntosCoor.dll
+D:\Projects\CSharp-VS\PuntosCoor\obj\Debug\net6.0\PuntosCoor.pdb
+D:\Projects\CSharp-VS\PuntosCoor\obj\Debug\net6.0\PuntosCoor.genruntimeconfig.cache
+D:\Projects\CSharp-VS\PuntosCoor\obj\Debug\net6.0\ref\PuntosCoor.dll

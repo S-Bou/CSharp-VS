@@ -1,0 +1,15 @@
+D:\Projects\CSharp-VS\Enumeraciones\obj\Debug\net7.0\Enumeraciones.csproj.AssemblyReference.cache
+D:\Projects\CSharp-VS\Enumeraciones\obj\Debug\net7.0\Enumeraciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CSharp-VS\Enumeraciones\obj\Debug\net7.0\Enumeraciones.AssemblyInfoInputs.cache
+D:\Projects\CSharp-VS\Enumeraciones\obj\Debug\net7.0\Enumeraciones.AssemblyInfo.cs
+D:\Projects\CSharp-VS\Enumeraciones\obj\Debug\net7.0\Enumeraciones.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp-VS\Enumeraciones\bin\Debug\net7.0\Enumeraciones.exe
+D:\Projects\CSharp-VS\Enumeraciones\bin\Debug\net7.0\Enumeraciones.deps.json
+D:\Projects\CSharp-VS\Enumeraciones\bin\Debug\net7.0\Enumeraciones.runtimeconfig.json
+D:\Projects\CSharp-VS\Enumeraciones\bin\Debug\net7.0\Enumeraciones.dll
+D:\Projects\CSharp-VS\Enumeraciones\bin\Debug\net7.0\Enumeraciones.pdb
+D:\Projects\CSharp-VS\Enumeraciones\obj\Debug\net7.0\Enumeraciones.dll
+D:\Projects\CSharp-VS\Enumeraciones\obj\Debug\net7.0\refint\Enumeraciones.dll
+D:\Projects\CSharp-VS\Enumeraciones\obj\Debug\net7.0\Enumeraciones.pdb
+D:\Projects\CSharp-VS\Enumeraciones\obj\Debug\net7.0\Enumeraciones.genruntimeconfig.cache
+D:\Projects\CSharp-VS\Enumeraciones\obj\Debug\net7.0\ref\Enumeraciones.dll

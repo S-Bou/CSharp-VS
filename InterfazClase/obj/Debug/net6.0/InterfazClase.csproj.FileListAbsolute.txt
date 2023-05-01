@@ -1,0 +1,15 @@
+D:\Projects\CSharp-VS\InterfazClase\bin\Debug\net6.0\InterfazClase.exe
+D:\Projects\CSharp-VS\InterfazClase\bin\Debug\net6.0\InterfazClase.deps.json
+D:\Projects\CSharp-VS\InterfazClase\bin\Debug\net6.0\InterfazClase.runtimeconfig.json
+D:\Projects\CSharp-VS\InterfazClase\bin\Debug\net6.0\InterfazClase.dll
+D:\Projects\CSharp-VS\InterfazClase\bin\Debug\net6.0\InterfazClase.pdb
+D:\Projects\CSharp-VS\InterfazClase\obj\Debug\net6.0\InterfazClase.csproj.AssemblyReference.cache
+D:\Projects\CSharp-VS\InterfazClase\obj\Debug\net6.0\InterfazClase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CSharp-VS\InterfazClase\obj\Debug\net6.0\InterfazClase.AssemblyInfoInputs.cache
+D:\Projects\CSharp-VS\InterfazClase\obj\Debug\net6.0\InterfazClase.AssemblyInfo.cs
+D:\Projects\CSharp-VS\InterfazClase\obj\Debug\net6.0\InterfazClase.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp-VS\InterfazClase\obj\Debug\net6.0\InterfazClase.dll
+D:\Projects\CSharp-VS\InterfazClase\obj\Debug\net6.0\refint\InterfazClase.dll
+D:\Projects\CSharp-VS\InterfazClase\obj\Debug\net6.0\InterfazClase.pdb
+D:\Projects\CSharp-VS\InterfazClase\obj\Debug\net6.0\InterfazClase.genruntimeconfig.cache
+D:\Projects\CSharp-VS\InterfazClase\obj\Debug\net6.0\ref\InterfazClase.dll

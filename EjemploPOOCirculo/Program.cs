@@ -30,7 +30,7 @@ namespace EjemploCirculo
         }
     }
 
-    class Circulo                       //Clase circulo
+    class Circulo                             //Clase circulo
     {
         private const double pi = 3.1416;      //Propiedad de la clase. Campo de clase
 

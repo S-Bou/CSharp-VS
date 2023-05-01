@@ -1,0 +1,15 @@
+D:\Projects\CSharp-VS\HerenciaVehiculos\bin\Debug\net6.0\HerenciaVehiculos.exe
+D:\Projects\CSharp-VS\HerenciaVehiculos\bin\Debug\net6.0\HerenciaVehiculos.deps.json
+D:\Projects\CSharp-VS\HerenciaVehiculos\bin\Debug\net6.0\HerenciaVehiculos.runtimeconfig.json
+D:\Projects\CSharp-VS\HerenciaVehiculos\bin\Debug\net6.0\HerenciaVehiculos.dll
+D:\Projects\CSharp-VS\HerenciaVehiculos\bin\Debug\net6.0\HerenciaVehiculos.pdb
+D:\Projects\CSharp-VS\HerenciaVehiculos\obj\Debug\net6.0\HerenciaVehiculos.csproj.AssemblyReference.cache
+D:\Projects\CSharp-VS\HerenciaVehiculos\obj\Debug\net6.0\HerenciaVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CSharp-VS\HerenciaVehiculos\obj\Debug\net6.0\HerenciaVehiculos.AssemblyInfoInputs.cache
+D:\Projects\CSharp-VS\HerenciaVehiculos\obj\Debug\net6.0\HerenciaVehiculos.AssemblyInfo.cs
+D:\Projects\CSharp-VS\HerenciaVehiculos\obj\Debug\net6.0\HerenciaVehiculos.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp-VS\HerenciaVehiculos\obj\Debug\net6.0\HerenciaVehiculos.dll
+D:\Projects\CSharp-VS\HerenciaVehiculos\obj\Debug\net6.0\refint\HerenciaVehiculos.dll
+D:\Projects\CSharp-VS\HerenciaVehiculos\obj\Debug\net6.0\HerenciaVehiculos.pdb
+D:\Projects\CSharp-VS\HerenciaVehiculos\obj\Debug\net6.0\HerenciaVehiculos.genruntimeconfig.cache
+D:\Projects\CSharp-VS\HerenciaVehiculos\obj\Debug\net6.0\ref\HerenciaVehiculos.dll

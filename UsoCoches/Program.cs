@@ -22,6 +22,9 @@ namespace UsoCoches
             coche3.SetExtras(true, "cuero");
 
             Console.WriteLine(coche3.GetExtras());
+
+            Punto Punto1 = new Punto(66, 99);
+
         }
 
     }

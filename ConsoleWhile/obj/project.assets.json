@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\C#\\VisualStudioCurso C#\\ConsoleAPP1\\ConsoleWhile\\ConsoleWhile.csproj",
+      "projectUniqueName": "D:\\Projects\\CSharp-VS\\ConsoleWhile\\ConsoleWhile.csproj",
       "projectName": "ConsoleWhile",
-      "projectPath": "D:\\Projects\\C#\\VisualStudioCurso C#\\ConsoleAPP1\\ConsoleWhile\\ConsoleWhile.csproj",
+      "projectPath": "D:\\Projects\\CSharp-VS\\ConsoleWhile\\ConsoleWhile.csproj",
       "packagesPath": "C:\\Users\\bouyo\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\C#\\VisualStudioCurso C#\\ConsoleAPP1\\ConsoleWhile\\obj\\",
+      "outputPath": "D:\\Projects\\CSharp-VS\\ConsoleWhile\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Programas\\Visual Studio\\Microsoft Visual Studio\\Shared\\NuGetPackages"

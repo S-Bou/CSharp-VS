@@ -1,0 +1,15 @@
+D:\Projects\CSharp-VS\Class_Sealed\bin\Debug\net6.0\Class_Sealed.exe
+D:\Projects\CSharp-VS\Class_Sealed\bin\Debug\net6.0\Class_Sealed.deps.json
+D:\Projects\CSharp-VS\Class_Sealed\bin\Debug\net6.0\Class_Sealed.runtimeconfig.json
+D:\Projects\CSharp-VS\Class_Sealed\bin\Debug\net6.0\Class_Sealed.dll
+D:\Projects\CSharp-VS\Class_Sealed\bin\Debug\net6.0\Class_Sealed.pdb
+D:\Projects\CSharp-VS\Class_Sealed\obj\Debug\net6.0\Class_Sealed.csproj.AssemblyReference.cache
+D:\Projects\CSharp-VS\Class_Sealed\obj\Debug\net6.0\Class_Sealed.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CSharp-VS\Class_Sealed\obj\Debug\net6.0\Class_Sealed.AssemblyInfoInputs.cache
+D:\Projects\CSharp-VS\Class_Sealed\obj\Debug\net6.0\Class_Sealed.AssemblyInfo.cs
+D:\Projects\CSharp-VS\Class_Sealed\obj\Debug\net6.0\Class_Sealed.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp-VS\Class_Sealed\obj\Debug\net6.0\Class_Sealed.dll
+D:\Projects\CSharp-VS\Class_Sealed\obj\Debug\net6.0\refint\Class_Sealed.dll
+D:\Projects\CSharp-VS\Class_Sealed\obj\Debug\net6.0\Class_Sealed.pdb
+D:\Projects\CSharp-VS\Class_Sealed\obj\Debug\net6.0\Class_Sealed.genruntimeconfig.cache
+D:\Projects\CSharp-VS\Class_Sealed\obj\Debug\net6.0\ref\Class_Sealed.dll

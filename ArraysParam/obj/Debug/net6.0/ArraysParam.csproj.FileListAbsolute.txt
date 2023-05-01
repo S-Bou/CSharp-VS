@@ -1,0 +1,15 @@
+D:\Projects\CSharp-VS\ArraysParam\bin\Debug\net6.0\ArraysParam.exe
+D:\Projects\CSharp-VS\ArraysParam\bin\Debug\net6.0\ArraysParam.deps.json
+D:\Projects\CSharp-VS\ArraysParam\bin\Debug\net6.0\ArraysParam.runtimeconfig.json
+D:\Projects\CSharp-VS\ArraysParam\bin\Debug\net6.0\ArraysParam.dll
+D:\Projects\CSharp-VS\ArraysParam\bin\Debug\net6.0\ArraysParam.pdb
+D:\Projects\CSharp-VS\ArraysParam\obj\Debug\net6.0\ArraysParam.csproj.AssemblyReference.cache
+D:\Projects\CSharp-VS\ArraysParam\obj\Debug\net6.0\ArraysParam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CSharp-VS\ArraysParam\obj\Debug\net6.0\ArraysParam.AssemblyInfoInputs.cache
+D:\Projects\CSharp-VS\ArraysParam\obj\Debug\net6.0\ArraysParam.AssemblyInfo.cs
+D:\Projects\CSharp-VS\ArraysParam\obj\Debug\net6.0\ArraysParam.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp-VS\ArraysParam\obj\Debug\net6.0\ArraysParam.dll
+D:\Projects\CSharp-VS\ArraysParam\obj\Debug\net6.0\refint\ArraysParam.dll
+D:\Projects\CSharp-VS\ArraysParam\obj\Debug\net6.0\ArraysParam.pdb
+D:\Projects\CSharp-VS\ArraysParam\obj\Debug\net6.0\ArraysParam.genruntimeconfig.cache
+D:\Projects\CSharp-VS\ArraysParam\obj\Debug\net6.0\ref\ArraysParam.dll
