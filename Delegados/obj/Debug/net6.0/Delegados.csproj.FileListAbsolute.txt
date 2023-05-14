@@ -1,0 +1,15 @@
+D:\Projects\CSharp-VS\Delegados\bin\Debug\net6.0\Delegados.exe
+D:\Projects\CSharp-VS\Delegados\bin\Debug\net6.0\Delegados.deps.json
+D:\Projects\CSharp-VS\Delegados\bin\Debug\net6.0\Delegados.runtimeconfig.json
+D:\Projects\CSharp-VS\Delegados\bin\Debug\net6.0\Delegados.dll
+D:\Projects\CSharp-VS\Delegados\bin\Debug\net6.0\Delegados.pdb
+D:\Projects\CSharp-VS\Delegados\obj\Debug\net6.0\Delegados.csproj.AssemblyReference.cache
+D:\Projects\CSharp-VS\Delegados\obj\Debug\net6.0\Delegados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CSharp-VS\Delegados\obj\Debug\net6.0\Delegados.AssemblyInfoInputs.cache
+D:\Projects\CSharp-VS\Delegados\obj\Debug\net6.0\Delegados.AssemblyInfo.cs
+D:\Projects\CSharp-VS\Delegados\obj\Debug\net6.0\Delegados.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp-VS\Delegados\obj\Debug\net6.0\Delegados.dll
+D:\Projects\CSharp-VS\Delegados\obj\Debug\net6.0\refint\Delegados.dll
+D:\Projects\CSharp-VS\Delegados\obj\Debug\net6.0\Delegados.pdb
+D:\Projects\CSharp-VS\Delegados\obj\Debug\net6.0\Delegados.genruntimeconfig.cache
+D:\Projects\CSharp-VS\Delegados\obj\Debug\net6.0\ref\Delegados.dll
