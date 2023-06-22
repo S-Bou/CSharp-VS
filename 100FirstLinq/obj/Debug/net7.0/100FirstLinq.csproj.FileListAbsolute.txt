@@ -1,0 +1,15 @@
+D:\Projects\CSharp-VS\100FirstLinq\obj\Debug\net7.0\100FirstLinq.csproj.AssemblyReference.cache
+D:\Projects\CSharp-VS\100FirstLinq\obj\Debug\net7.0\100FirstLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CSharp-VS\100FirstLinq\obj\Debug\net7.0\100FirstLinq.AssemblyInfoInputs.cache
+D:\Projects\CSharp-VS\100FirstLinq\obj\Debug\net7.0\100FirstLinq.AssemblyInfo.cs
+D:\Projects\CSharp-VS\100FirstLinq\obj\Debug\net7.0\100FirstLinq.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp-VS\100FirstLinq\bin\Debug\net7.0\100FirstLinq.exe
+D:\Projects\CSharp-VS\100FirstLinq\bin\Debug\net7.0\100FirstLinq.deps.json
+D:\Projects\CSharp-VS\100FirstLinq\bin\Debug\net7.0\100FirstLinq.runtimeconfig.json
+D:\Projects\CSharp-VS\100FirstLinq\bin\Debug\net7.0\100FirstLinq.dll
+D:\Projects\CSharp-VS\100FirstLinq\bin\Debug\net7.0\100FirstLinq.pdb
+D:\Projects\CSharp-VS\100FirstLinq\obj\Debug\net7.0\100FirstLinq.dll
+D:\Projects\CSharp-VS\100FirstLinq\obj\Debug\net7.0\refint\100FirstLinq.dll
+D:\Projects\CSharp-VS\100FirstLinq\obj\Debug\net7.0\100FirstLinq.pdb
+D:\Projects\CSharp-VS\100FirstLinq\obj\Debug\net7.0\100FirstLinq.genruntimeconfig.cache
+D:\Projects\CSharp-VS\100FirstLinq\obj\Debug\net7.0\ref\100FirstLinq.dll

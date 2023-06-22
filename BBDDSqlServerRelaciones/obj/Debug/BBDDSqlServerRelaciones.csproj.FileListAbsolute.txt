@@ -1,0 +1,16 @@
+D:\Projects\CSharp-VS\BBDDSqlServerRelaciones\bin\Debug\BBDDSqlServerRelaciones.exe.config
+D:\Projects\CSharp-VS\BBDDSqlServerRelaciones\bin\Debug\BBDDSqlServerRelaciones.exe
+D:\Projects\CSharp-VS\BBDDSqlServerRelaciones\bin\Debug\BBDDSqlServerRelaciones.pdb
+D:\Projects\CSharp-VS\BBDDSqlServerRelaciones\obj\Debug\BBDDSqlServerRelaciones.csproj.AssemblyReference.cache
+D:\Projects\CSharp-VS\BBDDSqlServerRelaciones\obj\Debug\BBDDSqlServerRelaciones.csproj.SuggestedBindingRedirects.cache
+D:\Projects\CSharp-VS\BBDDSqlServerRelaciones\obj\Debug\MainWindow.g.cs
+D:\Projects\CSharp-VS\BBDDSqlServerRelaciones\obj\Debug\App.g.cs
+D:\Projects\CSharp-VS\BBDDSqlServerRelaciones\obj\Debug\BBDDSqlServerRelaciones_MarkupCompile.cache
+D:\Projects\CSharp-VS\BBDDSqlServerRelaciones\obj\Debug\BBDDSqlServerRelaciones_MarkupCompile.lref
+D:\Projects\CSharp-VS\BBDDSqlServerRelaciones\obj\Debug\MainWindow.baml
+D:\Projects\CSharp-VS\BBDDSqlServerRelaciones\obj\Debug\BBDDSqlServerRelaciones.g.resources
+D:\Projects\CSharp-VS\BBDDSqlServerRelaciones\obj\Debug\BBDDSqlServerRelaciones.Properties.Resources.resources
+D:\Projects\CSharp-VS\BBDDSqlServerRelaciones\obj\Debug\BBDDSqlServerRelaciones.csproj.GenerateResource.cache
+D:\Projects\CSharp-VS\BBDDSqlServerRelaciones\obj\Debug\BBDDSqlServerRelaciones.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp-VS\BBDDSqlServerRelaciones\obj\Debug\BBDDSqlServerRelaciones.exe
+D:\Projects\CSharp-VS\BBDDSqlServerRelaciones\obj\Debug\BBDDSqlServerRelaciones.pdb

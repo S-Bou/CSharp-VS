@@ -1,0 +1,15 @@
+D:\Projects\CSharp-VS\113_task_I\bin\Debug\net7.0\113_task_I.exe
+D:\Projects\CSharp-VS\113_task_I\bin\Debug\net7.0\113_task_I.deps.json
+D:\Projects\CSharp-VS\113_task_I\bin\Debug\net7.0\113_task_I.runtimeconfig.json
+D:\Projects\CSharp-VS\113_task_I\bin\Debug\net7.0\113_task_I.dll
+D:\Projects\CSharp-VS\113_task_I\bin\Debug\net7.0\113_task_I.pdb
+D:\Projects\CSharp-VS\113_task_I\obj\Debug\net7.0\113_task_I.csproj.AssemblyReference.cache
+D:\Projects\CSharp-VS\113_task_I\obj\Debug\net7.0\113_task_I.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CSharp-VS\113_task_I\obj\Debug\net7.0\113_task_I.AssemblyInfoInputs.cache
+D:\Projects\CSharp-VS\113_task_I\obj\Debug\net7.0\113_task_I.AssemblyInfo.cs
+D:\Projects\CSharp-VS\113_task_I\obj\Debug\net7.0\113_task_I.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp-VS\113_task_I\obj\Debug\net7.0\113_task_I.dll
+D:\Projects\CSharp-VS\113_task_I\obj\Debug\net7.0\refint\113_task_I.dll
+D:\Projects\CSharp-VS\113_task_I\obj\Debug\net7.0\113_task_I.pdb
+D:\Projects\CSharp-VS\113_task_I\obj\Debug\net7.0\113_task_I.genruntimeconfig.cache
+D:\Projects\CSharp-VS\113_task_I\obj\Debug\net7.0\ref\113_task_I.dll

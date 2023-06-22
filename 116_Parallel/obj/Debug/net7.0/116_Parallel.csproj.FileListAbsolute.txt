@@ -1,0 +1,15 @@
+D:\Projects\CSharp-VS\116_Parallel\bin\Debug\net7.0\116_Parallel.exe
+D:\Projects\CSharp-VS\116_Parallel\bin\Debug\net7.0\116_Parallel.deps.json
+D:\Projects\CSharp-VS\116_Parallel\bin\Debug\net7.0\116_Parallel.runtimeconfig.json
+D:\Projects\CSharp-VS\116_Parallel\bin\Debug\net7.0\116_Parallel.dll
+D:\Projects\CSharp-VS\116_Parallel\bin\Debug\net7.0\116_Parallel.pdb
+D:\Projects\CSharp-VS\116_Parallel\obj\Debug\net7.0\116_Parallel.csproj.AssemblyReference.cache
+D:\Projects\CSharp-VS\116_Parallel\obj\Debug\net7.0\116_Parallel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CSharp-VS\116_Parallel\obj\Debug\net7.0\116_Parallel.AssemblyInfoInputs.cache
+D:\Projects\CSharp-VS\116_Parallel\obj\Debug\net7.0\116_Parallel.AssemblyInfo.cs
+D:\Projects\CSharp-VS\116_Parallel\obj\Debug\net7.0\116_Parallel.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp-VS\116_Parallel\obj\Debug\net7.0\116_Parallel.dll
+D:\Projects\CSharp-VS\116_Parallel\obj\Debug\net7.0\refint\116_Parallel.dll
+D:\Projects\CSharp-VS\116_Parallel\obj\Debug\net7.0\116_Parallel.pdb
+D:\Projects\CSharp-VS\116_Parallel\obj\Debug\net7.0\116_Parallel.genruntimeconfig.cache
+D:\Projects\CSharp-VS\116_Parallel\obj\Debug\net7.0\ref\116_Parallel.dll

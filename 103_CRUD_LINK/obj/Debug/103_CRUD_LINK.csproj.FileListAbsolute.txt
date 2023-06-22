@@ -1,0 +1,16 @@
+D:\Projects\CSharp-VS\103_CRUD_LINK\bin\Debug\103_CRUD_LINK.exe.config
+D:\Projects\CSharp-VS\103_CRUD_LINK\bin\Debug\103_CRUD_LINK.exe
+D:\Projects\CSharp-VS\103_CRUD_LINK\bin\Debug\103_CRUD_LINK.pdb
+D:\Projects\CSharp-VS\103_CRUD_LINK\obj\Debug\103_CRUD_LINK.csproj.AssemblyReference.cache
+D:\Projects\CSharp-VS\103_CRUD_LINK\obj\Debug\103_CRUD_LINK.csproj.SuggestedBindingRedirects.cache
+D:\Projects\CSharp-VS\103_CRUD_LINK\obj\Debug\MainWindow.g.cs
+D:\Projects\CSharp-VS\103_CRUD_LINK\obj\Debug\App.g.cs
+D:\Projects\CSharp-VS\103_CRUD_LINK\obj\Debug\103_CRUD_LINK_MarkupCompile.cache
+D:\Projects\CSharp-VS\103_CRUD_LINK\obj\Debug\103_CRUD_LINK_MarkupCompile.lref
+D:\Projects\CSharp-VS\103_CRUD_LINK\obj\Debug\MainWindow.baml
+D:\Projects\CSharp-VS\103_CRUD_LINK\obj\Debug\103_CRUD_LINK.g.resources
+D:\Projects\CSharp-VS\103_CRUD_LINK\obj\Debug\_103_CRUD_LINK.Properties.Resources.resources
+D:\Projects\CSharp-VS\103_CRUD_LINK\obj\Debug\103_CRUD_LINK.csproj.GenerateResource.cache
+D:\Projects\CSharp-VS\103_CRUD_LINK\obj\Debug\103_CRUD_LINK.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp-VS\103_CRUD_LINK\obj\Debug\103_CRUD_LINK.exe
+D:\Projects\CSharp-VS\103_CRUD_LINK\obj\Debug\103_CRUD_LINK.pdb

@@ -1,0 +1,15 @@
+D:\Projects\CSharp-VS\TrabajoConThreads\bin\Debug\net7.0\TrabajoConThreads.exe
+D:\Projects\CSharp-VS\TrabajoConThreads\bin\Debug\net7.0\TrabajoConThreads.deps.json
+D:\Projects\CSharp-VS\TrabajoConThreads\bin\Debug\net7.0\TrabajoConThreads.runtimeconfig.json
+D:\Projects\CSharp-VS\TrabajoConThreads\bin\Debug\net7.0\TrabajoConThreads.dll
+D:\Projects\CSharp-VS\TrabajoConThreads\bin\Debug\net7.0\TrabajoConThreads.pdb
+D:\Projects\CSharp-VS\TrabajoConThreads\obj\Debug\net7.0\TrabajoConThreads.csproj.AssemblyReference.cache
+D:\Projects\CSharp-VS\TrabajoConThreads\obj\Debug\net7.0\TrabajoConThreads.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CSharp-VS\TrabajoConThreads\obj\Debug\net7.0\TrabajoConThreads.AssemblyInfoInputs.cache
+D:\Projects\CSharp-VS\TrabajoConThreads\obj\Debug\net7.0\TrabajoConThreads.AssemblyInfo.cs
+D:\Projects\CSharp-VS\TrabajoConThreads\obj\Debug\net7.0\TrabajoConThreads.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp-VS\TrabajoConThreads\obj\Debug\net7.0\TrabajoConThreads.dll
+D:\Projects\CSharp-VS\TrabajoConThreads\obj\Debug\net7.0\refint\TrabajoConThreads.dll
+D:\Projects\CSharp-VS\TrabajoConThreads\obj\Debug\net7.0\TrabajoConThreads.pdb
+D:\Projects\CSharp-VS\TrabajoConThreads\obj\Debug\net7.0\TrabajoConThreads.genruntimeconfig.cache
+D:\Projects\CSharp-VS\TrabajoConThreads\obj\Debug\net7.0\ref\TrabajoConThreads.dll
